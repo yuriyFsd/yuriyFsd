@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuriyFsd
 - 👀 I’m interested in JS / node.JS at this moment
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, Vue, MySQL
 - 💞️ I’m looking to collaborate on ...
 
 <!---
